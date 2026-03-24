@@ -1,0 +1,87 @@
+name,category,current_stock,min_threshold,price
+iPhone Base,Smartphone,25,20,74202
+iPhone Pro,Smartphone,22,20,76371
+iPhone Ultra,Smartphone,69,20,83497
+Galaxy Base,Smartphone,83,20,68569
+Galaxy Pro,Smartphone,30,20,32023
+Galaxy Ultra,Smartphone,86,20,61252
+Pixel Base,Smartphone,29,20,35557
+Pixel Pro,Smartphone,34,20,93218
+Pixel Ultra,Smartphone,45,20,66883
+OnePlus Base,Smartphone,19,20,104008
+OnePlus Pro,Smartphone,15,20,95185
+OnePlus Ultra,Smartphone,64,20,48850
+Redmi Base,Smartphone,13,20,81915
+Redmi Pro,Smartphone,99,20,57511
+Redmi Ultra,Smartphone,100,20,98561
+MacBook Base,Laptop,22,20,190727
+MacBook Pro,Laptop,21,20,62430
+MacBook Ultra,Laptop,95,20,165031
+XPS Base,Laptop,47,20,38281
+XPS Pro,Laptop,70,20,56290
+XPS Ultra,Laptop,85,20,100194
+ThinkPad Base,Laptop,73,20,57115
+ThinkPad Pro,Laptop,19,20,114474
+ThinkPad Ultra,Laptop,21,20,78623
+ZenBook Base,Laptop,53,20,142354
+ZenBook Pro,Laptop,83,20,176252
+ZenBook Ultra,Laptop,18,20,226563
+Razer Blade Base,Laptop,64,20,148698
+Razer Blade Pro,Laptop,13,20,93301
+Razer Blade Ultra,Laptop,37,20,198106
+iPad Base,Tablet,95,20,57818
+iPad Pro,Tablet,36,20,70075
+iPad Ultra,Tablet,67,20,65219
+Galaxy Tab Base,Tablet,46,20,81434
+Galaxy Tab Pro,Tablet,56,20,38932
+Galaxy Tab Ultra,Tablet,20,20,85311
+Surface Pro Base,Tablet,69,20,30112
+Surface Pro Pro,Tablet,93,20,34927
+Surface Pro Ultra,Tablet,44,20,44008
+Lenovo Tab Base,Tablet,15,20,75035
+Lenovo Tab Pro,Tablet,89,20,61428
+Lenovo Tab Ultra,Tablet,47,20,46402
+Sony,Headphones,21,20,14931
+Bose,Headphones,81,20,10081
+AirPods,Headphones,95,20,21746
+Sennheiser,Headphones,80,20,24964
+JBL,Headphones,94,20,33103
+Apple Watch,Smartwatch,92,20,13846
+Galaxy Watch,Smartwatch,68,20,34729
+Garmin,Smartwatch,34,20,47506
+Fitbit,Smartwatch,39,20,20796
+Anker,Charger,172,80,2553
+Belkin,Charger,92,80,4940
+Samsung 45W,Charger,336,80,3317
+Apple 20W,Charger,52,80,635
+Silicone Case,Accessory,216,80,5154
+USB-C Cable,Accessory,192,80,1221
+Screen Protector,Accessory,248,80,5241
+Power Bank,Accessory,380,80,3529
+Sony Alpha,Camera,10,20,69914
+Canon EOS,Camera,32,20,121232
+Fujifilm X,Camera,85,20,68539
+Nikon Z,Camera,13,20,124007
+Samsung QLED,TV,15,20,200560
+LG OLED,TV,91,20,221109
+Sony Bravia,TV,66,20,74102
+TCL MiniLED,TV,56,20,98203
+PlayStation 5,Gaming Console,85,20,48932
+Xbox Series X,Gaming Console,80,20,44973
+Nintendo Switch,Gaming Console,49,20,43377
+DJI Mavic,Drone,41,20,195281
+DJI Mini,Drone,78,20,54614
+Autel Robotics,Drone,20,20,147303
+Ryze Tello,Drone,39,20,156899
+Meta Quest,VR Headset,97,20,76280
+PlayStation VR,VR Headset,50,20,112216
+Valve Index,VR Headset,41,20,39744
+HP Reverb,VR Headset,95,20,79144
+Marshall Emberton,Speaker,98,20,61286
+Sonos One,Speaker,52,20,29393
+JBL Boombox,Speaker,56,20,54502
+Bose SoundLink,Speaker,64,20,68221
+BenQ 4K,Projector,56,20,139080
+Epson Home Cinema,Projector,17,20,134298
+ViewSonic,Projector,73,20,229113
+Optoma,Projector,26,20,204291
